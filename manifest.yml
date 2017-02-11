@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 256M
   instances: 1
-  domain: mybluemix.net
-  name: Topcoder_Cognitive
-  host: hi1049
+  domain: eu-gb.mybluemix.net
+  name: sky-bluemix-starter-2
+  host: sky-bluemix-starter-2
   disk_quota: 1024M
